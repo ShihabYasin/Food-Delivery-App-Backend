@@ -1,4 +1,6 @@
-# Food Delivery app backend
+# Food Delivery app backend:
+### Used: PostgreSQL, Flask, Docker, docker-compose, PyTest, psycogreen(gevent), contextlib, ETL etc.   
+
 
 Here building a backend service & a database for a food delivery platform, with the following 2 raw datasets:
 
